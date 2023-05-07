@@ -1,3 +1,4 @@
+#install sudo apt install python3-pip and sudo apt-get install python3-multiprocess
 #!/usr/bin/env python3
 from multiprocessing import Pool
 def run(task):
